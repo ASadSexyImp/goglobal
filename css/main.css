@@ -23,6 +23,7 @@ h1 {
 	color: #2d3033;
 }
 h2 {
+	text-align: center;
 	font-size: 40px;
 	color: #2d3033;
 }
@@ -50,7 +51,7 @@ h5 {
 	font-family:
 }
 .ccc {
-	text-align: right;
+	text-align: center;
 }
 .btn {
 	background-color: #3bc492;
